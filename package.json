@@ -1,0 +1,13 @@
+{
+  "name": "payme",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PayMe for Little Mixxy — proposals, bookings, contracts, and deposits.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node server.js --selftest"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

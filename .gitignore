@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+data.json
+data.json.tmp
+*.log
+.vercel
+node_modules
